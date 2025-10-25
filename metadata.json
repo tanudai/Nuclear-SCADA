@@ -1,0 +1,5 @@
+{
+  "name": "Nuclear SCADA",
+  "description": "A simulated SCADA (Supervisory Control and Data Acquisition) interface for a nuclear power plant, allowing users to monitor systems, control reactor output, and use an AI assistant for diagnostics.",
+  "requestFramePermissions": []
+}
